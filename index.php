@@ -2,8 +2,8 @@
 <html>
 <body>
 
-<h2>404 not found<h2>
-<h3>sorry<h3>
+<h1>404 not found<h1>
+<h2>sorry<h2>
 
 </body>
 </html>
