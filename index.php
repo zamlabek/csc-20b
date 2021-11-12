@@ -58,7 +58,7 @@
 </style>
 <center>
 
-    <body style="background-color:beige;">
+    <body style="background-color:gray;">
         <h1>Almazbek Abdyrahmanov<br>Web junior Developer and designer</h1>
         <h3>Can change your vision about web developing!</h3>
         <p> Since beginning my journey nearly 6 years ago. I have developed amazing web applications.</p>
