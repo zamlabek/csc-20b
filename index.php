@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 
@@ -62,12 +63,13 @@
         <h1>Almazbek Abdyrahmanov<br>Web junior Developer and designer</h1>
         <h3>Can change your vision about web developing!</h3>
         <p> Since beginning my journey nearly 6 years ago. I have developed amazing web applications.</p>
-        <img src='https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/shrek-forever-after-1587549453.jpg?crop=0.676xw:0.901xh;0.0969xw,0&resize=480:*' alt='Almaz' style='width:200px;height:200px;  margin-left: 350px;'> 
+        <img src='https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/shrek-forever-after-1587549453.jpg?crop=0.676xw:0.901xh;0.0969xw,0&resize=480:*' alt='Almaz' style='width:200px;height:200px;  margin-left: 900px;'> 
 	<form action='https://github.com/zamlabek' target='_blank'>
         <button class="button button1">Github</button>
         </form>
         <form action='https://instagram.com/abdr.gg?utm_medium=copy_link' target='_blank'>
         <button class="button button2">Instagram</button>
+        <h4>My address:Bishkek city.Asanbay microdistrict 41/48<br>My phone number:+996709770913</h4>
         </form>
     </body>
 </center>
